@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: green;
+	font-family: Constantia, "Lucida bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 32px;
+	line-height: 32px;
+	width: 600px;
+	background-color: blue;
+	padding: 20px;
+}
+.paragraf_2 {color:darkcyan; background-color: rgba(255, 255, 255, 0.5)}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding:20px;
+	margin: 20px;
+	width:50%;
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:cadetblue;
+}
+
+span {color: #4A206B;}
+.pozadina{
+	background-image: url("C:\Users\iva_s\Desktop\dmhtml\pozadinadm.png");
+}
+.drugapozadina {
+	background-color: darkgray;
+a:link{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height: 200px;
+}
